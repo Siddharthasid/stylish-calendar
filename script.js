@@ -137,6 +137,67 @@ const neonColors = [
   "#fe0aeb",
   "#e6fe0a",
   "#eaff00",
+  "#FF1493", // DeepPink
+  "#00FF7F", // SpringGreen
+  "#00CED1", // DarkTurquoise
+  "#FFD700", // Gold
+  "#FF6347", // Tomato
+  "#DA70D6", // Orchid
+  "#8A2BE2", // BlueViolet
+  "#20B2AA", // LightSeaGreen
+  "#87CEEB", // SkyBlue
+  "#32CD32", // LimeGreen
+  "#FF4500", // OrangeRed
+  "#9400D3", // DarkViolet
+  "#FF69B4", // HotPink
+  "#1E90FF", // DodgerBlue
+  "#00BFFF", // DeepSkyBlue
+  "#FFA07A", // LightSalmon
+  "#00FA9A", // MediumSpringGreen
+  "#48D1CC", // MediumTurquoise
+  "#7FFFD4", // Aquamarine
+  "#8B008B", // DarkMagenta
+  "#FF8C00", // DarkOrange
+  "#9370DB", // MediumPurple
+  "#00FF00", // Lime
+  "#00FFFF", // Aqua/Cyan
+  "#B0E0E6", // PowderBlue
+  "#7B68EE", // MediumSlateBlue
+  "#7CFC00", // LawnGreen
+  "#FAFAD2", // LightGoldenrodYellow
+  "#FFE4B5", // Moccasin
+  "#FFDAB9", // PeachPuff
+  "#8B4513", // SaddleBrown
+  "#008B8B", // DarkCyan
+  "#9932CC", // DarkOrchid
+  "#228B22", // ForestGreen
+  "#FF7F50", // Coral
+  "#6A5ACD", // SlateBlue
+  "#7FFF00", // Chartreuse
+  "#FF00FF", // Fuchsia/Magenta
+  "#CD5C5C", // IndianRed
+  "#48D1CC", // MediumTurquoise (Repeating, just for example)
+  "#8B4513", // SaddleBrown (Repeating, just for example)
+  "#008B8B", // DarkCyan (Repeating, just for example)
+  "#9932CC", // DarkOrchid (Repeating, just for example)
+  "#228B22", // ForestGreen (Repeating, just for example)
+  "#FF7F50", // Coral (Repeating, just for example)
+  "#6A5ACD", // SlateBlue (Repeating, just for example)
+  "#7FFF00", // Chartreuse (Repeating, just for example)
+  "#FF00FF", // Fuchsia/Magenta (Repeating, just for example)
+  "#CD5C5C", // IndianRed (Repeating, just for example)
+  "#E9967A", // DarkSalmon
+  "#7B68EE", // MediumSlateBlue (Repeating, just for example)
+  "#32CD32", // LimeGreen (Repeating, just for example)
+  "#40E0D0", // Turquoise
+  "#FF8C00", // DarkOrange (Repeating, just for example)
+  "#DDA0DD", // Plum
+  "#9932CC", // DarkOrchid (Repeating, just for example)
+  "#7B68EE", // MediumSlateBlue (Repeating, just for example)
+  "#32CD32", // LimeGreen (Repeating, just for example)
+  "#40E0D0", // Turquoise (Repeating, just for example)
+  "#FF8C00", // DarkOrange (Repeating, just for example)
+  "#DDA0DD", // Plum (Repeating, just for example)
 ];
 
 function changeCalendarColor() {
